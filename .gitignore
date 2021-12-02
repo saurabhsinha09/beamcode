@@ -1,0 +1,3 @@
+beamenv/
+**/data/
+.ipynb_checkpoints
